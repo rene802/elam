@@ -1,0 +1,14 @@
+# ROOT files
+*.root
+provare/*.root
+
+# backups
+*_backup.py
+
+# system
+.DS_Store
+__pycache__/
+*.pyc
+
+# IDE
+*.swp
